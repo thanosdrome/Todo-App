@@ -12,4 +12,5 @@ A minimal and user-friendly Todo application to help you manage your daily tasks
 [![Open App](https://img.shields.io/badge/Open%20App-Click%20Here-blue?style=for-the-badge)](https://thanosdrome.github.io/Todo-App/)
 
 
-![image](https://github.com/user-attachments/assets/ccb0e725-d61a-4105-aadd-88826dcc8f0c)
+![todoapp](https://github.com/user-attachments/assets/c03db8c0-d3d8-4a1f-8b74-561da9d90b98)
+
