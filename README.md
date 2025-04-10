@@ -11,6 +11,8 @@ A minimal and user-friendly Todo application to help you manage your daily tasks
   
 [![Open App](https://img.shields.io/badge/Open%20App-Click%20Here-blue?style=for-the-badge)](https://thanosdrome.github.io/Todo-App/)
 
+![Todo-app](https://github.com/user-attachments/assets/7263e6af-bff6-4670-9fbe-cb5c17d59d8c)
 
-![todoapp](https://github.com/user-attachments/assets/c03db8c0-d3d8-4a1f-8b74-561da9d90b98)
+#Author
+###Shudhanshu Ranjan
 
