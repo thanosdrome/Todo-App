@@ -13,6 +13,6 @@ A minimal and user-friendly Todo application to help you manage your daily tasks
 
 ![Todo-app](https://github.com/user-attachments/assets/7263e6af-bff6-4670-9fbe-cb5c17d59d8c)
 
-#Author
-###Shudhanshu Ranjan
+## Author
+### Shudhanshu Ranjan
 
