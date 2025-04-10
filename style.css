@@ -27,10 +27,10 @@ body{
     flex-direction: column;
     align-items: center;
     background-image:url('https://cpwebassets.codepen.io/assets/packs/lines-2-4e66616a5ef291c3566a7ddfe1ffaaa8.svg');
-  background-size:contain;
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  z-index: -4;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    z-index: -4;
 }
 
 .backglass{
